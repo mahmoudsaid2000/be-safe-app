@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.936" height="21.065" viewBox="0 0 18.936 21.065">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8140a4"/>
+      <stop offset="1" stop-color="#cb4594"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_412" data-name="Group 412" transform="translate(-28 -752)">
+    <path id="Home_icon" data-name="Home icon" d="M20.883,8.313h0L14.572,2.78a3.156,3.156,0,0,0-4.208,0L4.052,8.313A3.156,3.156,0,0,0,3,10.691v9.194a3.156,3.156,0,0,0,3.156,3.156H18.78a3.156,3.156,0,0,0,3.156-3.156v-9.2a3.156,3.156,0,0,0-1.052-2.367ZM14.572,20.937H10.364v-5.26a1.052,1.052,0,0,1,1.052-1.052h2.1a1.052,1.052,0,0,1,1.052,1.052Zm5.26-1.052a1.052,1.052,0,0,1-1.052,1.052h-2.1v-5.26a3.156,3.156,0,0,0-3.156-3.156h-2.1A3.156,3.156,0,0,0,8.26,15.677v5.26h-2.1A1.052,1.052,0,0,1,5.1,19.885v-9.2a1.052,1.052,0,0,1,.358-.789l6.312-5.523a1.052,1.052,0,0,1,1.389,0l6.312,5.523a1.052,1.052,0,0,1,.358.789Z" transform="translate(25 750.024)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

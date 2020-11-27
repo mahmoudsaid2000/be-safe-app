@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="26.25" viewBox="0 0 30 26.25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8140a4"/>
+      <stop offset="1" stop-color="#cb4594"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_open-transfer" data-name="Icon open-transfer" d="M22.5,0V3.75H0V7.5H22.5v3.75L30,5.625ZM7.5,15,0,20.625,7.5,26.25V22.5H30V18.75H7.5Z" fill="url(#linear-gradient)"/>
+</svg>

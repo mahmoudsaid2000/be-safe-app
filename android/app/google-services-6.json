@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998776877875",
+    "firebase_url": "https://besafe-484cf.firebaseio.com",
+    "project_id": "besafe-484cf",
+    "storage_bucket": "besafe-484cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998776877875:android:6d3b9ee036fc0ef15f8446",
+        "android_client_info": {
+          "package_name": "ps.besafe.corona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998776877875-vqmf0hcom755h0pmsmg18hipj0idsr5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWQi6vw5hfWyuj8V3uy3XaAHptzXtEAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998776877875-vqmf0hcom755h0pmsmg18hipj0idsr5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
